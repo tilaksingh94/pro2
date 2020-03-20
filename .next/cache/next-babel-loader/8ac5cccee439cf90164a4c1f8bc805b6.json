@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React, { Component } from 'react';\nimport UserLayout from '../../components/include/UserLayout';\nexport default class index extends React.Component {\n  render() {\n    return __jsx(UserLayout, null, \"Hello\");\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}

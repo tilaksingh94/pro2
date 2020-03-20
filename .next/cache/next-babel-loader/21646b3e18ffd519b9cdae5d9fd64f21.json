@@ -1,0 +1,1 @@
+{"ast":null,"code":"const URL = type => {\n  return 'http://127.0.0.1:5050/api/' + type;\n};\n\nexport default URL;","map":null,"metadata":{},"sourceType":"module"}
